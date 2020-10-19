@@ -1,5 +1,5 @@
 <?php
 
-include_once("hikinginmolde.html" "informasjon" "flerebilder");
+include_once("hikinginmolde.html" "informasjon.html" "flerebilder.html");
 
 ?>
